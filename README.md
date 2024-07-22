@@ -32,7 +32,7 @@ You can install the development version from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("kvasilopoulos/uklr")
+devtools::install_github("floswald/uklr")
 ```
 
 If you encounter a clear bug, please file a reproducible example on
